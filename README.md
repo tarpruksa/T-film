@@ -4,6 +4,9 @@ I build this site using react apps, connect to IMDB APIs
 
 live project: https://t-film.netlify.app/
 
+![My Image](src/screencapture-t-film-netlify-app-2022-08-24-20_56_28.png)
+
+
 ## Features
 - Voice recognition command (can use to navigate through the site)
 - Themes select between light and dark
@@ -19,3 +22,5 @@ live project: https://t-film.netlify.app/
 - "Make it dark" = change theme to dark
 - "Go to comedy" = jump to comedy categories (can also change comedy to some other categories)
 - "Surprise me" = jump to random categories
+
+
